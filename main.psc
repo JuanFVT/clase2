@@ -5,5 +5,5 @@ Algoritmo clase1
 	Escribir "Hola"
 	mostrar "esto es un comentario"
 //	Mostrar "esto no lo quiero mostrar"
-	
+	//cambuios simples
 FinAlgoritmo

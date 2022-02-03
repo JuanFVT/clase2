@@ -8,3 +8,5 @@ cambios de esta version
 no se que escribir.
 
 si
+
+se agrego el erchivo main.psc
